@@ -22,3 +22,12 @@
 .fontar {
     font-family: 'Reem Kufi', sans-serif;
 }
+
+#home {
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+
+#home.visible {
+    opacity: 1;
+}
