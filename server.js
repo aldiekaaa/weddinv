@@ -43,6 +43,7 @@ app.post('/guestbook', (req, res) => {
     res.json({ message: 'Ucapan berhasil ditambahkan!', ...newEntry });
 });
 
+
 // ...
 
 
