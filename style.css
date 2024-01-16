@@ -22,3 +22,8 @@
 .fontar {
     font-family: 'Reem Kufi', sans-serif;
 }
+
+.guestbook-entry .timestamp {
+    font-style: italic;
+    margin-top: 5px;
+}

@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=My+Soul&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap');
+
+.font-pb {
+    font-family: 'Playball', cursive;
+}
+
+.font-jsn {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.font-mysl {
+    font-family: 'My Soul', cursive;
+}
+
+.fontar {
+    font-family: 'Reem Kufi', sans-serif;
+}
+
+.guestbook-entry .timestamp {
+    font-style: italic;
+    margin-top: 5px;
+}
